@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode and Swift PM
+.build/
+build/
+DerivedData/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# Local IDE and tools
+.vscode/
+.idea/
+.commandcode/
+*.swp
+*~
